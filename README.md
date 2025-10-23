@@ -1,1 +1,1 @@
-self-use library.
+Self-use library.
